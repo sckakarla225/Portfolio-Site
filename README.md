@@ -1,2 +1,2 @@
-# Personal-Site
+# Portfolio
 Samhith Kakarla Personal Website
