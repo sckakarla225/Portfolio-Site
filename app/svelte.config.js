@@ -6,7 +6,8 @@ const config = {
   kit: {
     adapter: adapter()
   },
-  preprocess: vitePreprocess()
+  preprocess: vitePreprocess(),
+  assetsInclude: ["**/*.JPG"],
 };
 
 export default config;
