@@ -9,13 +9,13 @@
 
 <!-- HEADER -->
 
-<nav class= "border-gray-200 bg-zinc-800">
+<nav class= "border-gray-200 bg-zinc-900">
   <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-6 pt-10">
     <div class="flex flex-row items-center justify-between">
-      <a href="/" class="flex items-center">
+      <!-- <a href="/" class="flex items-center">
         <img class="" alt="Samhith Kakarla Logo" width={40} height={40} />
-      </a>
-      <p class="text-white font-bold ml-3 text-lg">Samhith Kakarla</p>
+      </a> -->
+      <p class=" font-semibold text-white ml-3 text-lg">Samhith Kakarla</p>
     </div>
     <div class="flex flex-row items-center justify-between">
       <a href="mailto:sck225@cornell.edu" target="_blank">
@@ -53,7 +53,7 @@
 
 <!-- MAIN -->
 
-<div class="bg-zinc-800 min-h-screen px-60">
+<div class="bg-zinc-900 min-h-screen px-60">
   
   <!-- ABOUT ME  -->
   <div class="grid grid-cols-2 pt-20 items-center">
@@ -86,7 +86,7 @@
 
 <!-- FOOTER  -->
 
-<footer class="bg-zinc-800 p-8">
+<footer class="bg-zinc-900 p-8">
   <div class="w-full mx-auto max-w-screen-xl p-4 text-center">
     <span class="text-md text-white">© 2023 <a href="https://samhithkakarla.com/" class="hover:underline">Samhith Kakarla</a>. All Rights Reserved.
     </span>
