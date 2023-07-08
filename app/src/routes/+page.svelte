@@ -62,16 +62,15 @@
     </div>
     <div class="flex flex-col">
       <h1 class="font-bold text-white text-3xl">Headline...</h1>
-      <p class="text-white font-light text-lg mt-5">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-        laboris nisi ut aliquip ex ea commodo consequat. 
+      <p class="text-white font-normal text-lg mt-5">
+        Hi! My name is Samhith Kakarla. I'm a rising sophomore at Cornell University studying
+        Hotel Administration and Mathematics. 
       </p>
-      <p class="text-white font-light text-lg mt-4">
-        Duis aute irure dolor in reprehenderit 
-        in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-        laborum.
+      <p class="text-white font-normal text-lg mt-4">
+        Following my tenure of running a successful event entertainment business, I plan on 
+        exploring ways to use technology and finance to launch bold and exciting innovations
+        in the hospitality and entertainment sector, changing the way service-providers across
+        the world build their businesses.
       </p>
     </div>
   </div>

@@ -32,13 +32,13 @@
     </p>
     <ul class="mt-8 mr-10">
       <li class="text-white font-light text-md mb-2">
-        ⚫ Create and set custom labels to your playlists to group similar songs
+        &#9702; Create and set custom labels to your playlists to group similar songs
       </li>
       <li class="text-white font-light text-md mb-2">
-        ⚫ Define a precise structure for your library to auto-generate playlists
+        &#9702; Define a precise structure for your library to auto-generate playlists
       </li>
       <li class="text-white font-light text-md mb-2">
-        ⚫ Automatically update and re-organize your playlists when new songs are added to your library
+        &#9702; Automatically update and re-organize your playlists when new songs are added to your library
       </li>
     </ul>
     <div class="flex flex-row flex-wrap mt-12">
