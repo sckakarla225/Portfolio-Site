@@ -15,28 +15,28 @@
       <!-- <a href="/" class="flex items-center">
         <img class="" alt="Samhith Kakarla Logo" width={40} height={40} />
       </a> -->
-      <p class=" font-semibold text-white ml-3 text-lg">Samhith Kakarla</p>
+      <p class=" font-semibold text-white ml-3 text-md sm:text-lg">Samhith Kakarla</p>
     </div>
     <div class="flex flex-row items-center justify-between">
       <a href="mailto:sck225@cornell.edu" target="_blank">
         <Icon 
           icon="mdi:email" 
           color="white" 
-          class="text-3xl cursor-pointer mx-3"
+          class="text-xl md:text-3xl cursor-pointer mx-3"
         />
       </a>
       <a href="https://github.com/sckakarla225" target="_blank">
         <Icon 
           icon="mdi:github" 
           color="white" 
-          class="text-3xl cursor-pointer mx-3"
+          class="text-xl sm:text-3xl cursor-pointer mx-3"
         />
       </a>
       <a href="https://linkedin.com/in/samhith-kakarla" target="_blank">
         <Icon 
           icon="mdi:linkedin" 
           color="white" 
-          class="text-3xl cursor-pointer mx-3"
+          class="text-xl sm:text-3xl cursor-pointer mx-3"
         />
       </a>
       <!-- TODO: Change to download resume when its complete -->
@@ -44,7 +44,7 @@
         <Icon 
           icon="mdi:note-text" 
           color="white" 
-          class="text-3xl cursor-pointer mx-3"
+          class="text-xl sm:text-3xl cursor-pointer mx-3"
         />
       </a>
     </div>
@@ -53,15 +53,15 @@
 
 <!-- MAIN -->
 
-<div class="bg-zinc-900 min-h-screen px-60">
+<div class="bg-zinc-900 min-h-screen px-10 sm:px-60">
   
   <!-- ABOUT ME  -->
-  <div class="grid grid-cols-2 pt-20 items-center">
+  <div class="grid grid-cols-1 sm:grid-cols-2 pt-10 sm:pt-20 items-center">
     <div class="flex flex-col">
-      <img src="/images/profilepic2.jpeg" alt="Profile Pic" class="rounded-md shadow-lg w-96 h-96" />
+      <img src="/images/profilepic2.jpeg" alt="Profile Pic" class="rounded-md shadow-lg w-80 h-80 sm:w-96 sm:h-96" />
     </div>
     <div class="flex flex-col">
-      <h1 class="font-bold text-white text-4xl">
+      <h1 class="font-bold text-white mt-10 sm:mt-0 text-4xl">
         Entrepreneur and coder with a love for all things <p class="font-bold text-orange-300 text-4xl">entertainment.</p>
       </h1>
       <p class="text-white font-normal text-lg mt-8">
@@ -77,7 +77,7 @@
     </div>
   </div>
   <!-- PRIOR VENTURE + PROJECTS -->
-  <div class="grid grid-cols-2 pt-10">
+  <div class="grid grid-cols-1 sm:grid-cols-2 pt-10">
     <Venture />
     <Project />
   </div>

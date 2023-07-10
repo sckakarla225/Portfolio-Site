@@ -9,12 +9,12 @@
   <Carousel
     bind:this={carousel}
   >
-    <img src="/images/image1.JPG" alt="" class="w-60 h-60 rounded-md" />
-    <img src="/images/image2.jpg" alt="" class="w-60 h-60 rounded-md" />
-    <img src="/images/image3.JPG" alt="" class="w-60 h-60 rounded-md" />
-    <img src="/images/image4.jpg" alt="" class="w-60 h-60 rounded-md" />
-    <img src="/images/image5.JPG" alt="" class="w-60 h-60 rounded-md" />
-    <img src="/images/image6.JPG" alt="" class="w-60 h-60 rounded-md" />
-    <img src="/images/image7.jpg" alt="" class="w-60 h-60 rounded-md" />
+    <img src="/images/image1.JPG" alt="" class="w-40 h-40 sm:w-60 sm:h-60 rounded-md" />
+    <img src="/images/image2.jpg" alt="" class="w-40 h-40 sm:w-60 sm:h-60 rounded-md" />
+    <img src="/images/image3.JPG" alt="" class="w-40 h-40 sm:w-60 sm:h-60 rounded-md" />
+    <img src="/images/image4.jpg" alt="" class="w-40 h-40 sm:w-60 sm:h-60 rounded-md" />
+    <img src="/images/image5.JPG" alt="" class="w-40 h-40 sm:w-60 sm:h-60 rounded-md" />
+    <img src="/images/image6.JPG" alt="" class="w-40 h-40 sm:w-60 sm:h-60 rounded-md" />
+    <img src="/images/image7.jpg" alt="" class="w-40 h-40 sm:w-60 sm:h-60 rounded-md" />
   </Carousel>
 {/if}
