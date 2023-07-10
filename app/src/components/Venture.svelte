@@ -1,3 +1,7 @@
+<script>
+  import Highlights from './Highlights.svelte';
+</script>
+
 
 <div class="flex flex-col mr-5">
 
@@ -47,6 +51,9 @@
 
     <div class="mt-10">
       <h1 class="text-white font-semibold text-md">HIGHLIGHTS</h1>
+      <div class="mt-5">
+        <Highlights />
+      </div>
     </div>
 
     <!-- END HIGHLIGHTS -->

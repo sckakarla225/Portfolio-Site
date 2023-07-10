@@ -40,7 +40,7 @@
         />
       </a>
       <!-- TODO: Change to download resume when its complete -->
-      <a href="https://linkedin.com/in/samhith-kakarla" target="_blank">
+      <a href="/images/resume.pdf" download="resume.pdf" target="_blank">
         <Icon 
           icon="mdi:note-text" 
           color="white" 
@@ -58,7 +58,7 @@
   <!-- ABOUT ME  -->
   <div class="grid grid-cols-2 pt-20 items-center">
     <div class="flex flex-col">
-      <img src="/images/profilepic.jpg" alt="Profile Pic" class="rounded-md shadow-lg w-96 h-96" />
+      <img src="/images/profilepic2.jpeg" alt="Profile Pic" class="rounded-md shadow-lg w-96 h-96" />
     </div>
     <div class="flex flex-col">
       <h1 class="font-bold text-white text-3xl">Headline...</h1>
@@ -70,7 +70,7 @@
         Following my tenure of running a successful event entertainment business, I plan on 
         exploring ways to use technology and finance to launch bold and exciting innovations
         in the hospitality and entertainment sector, changing the way service-providers across
-        the world build their businesses.
+        the globe build their businesses.
       </p>
     </div>
   </div>
