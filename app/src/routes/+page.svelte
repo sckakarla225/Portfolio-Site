@@ -69,7 +69,7 @@
       <p class="text-white font-normal text-lg mt-4">
         Following my tenure of running a successful event entertainment business, I plan on 
         exploring ways to use technology and finance to launch bold and exciting innovations
-        in the hospitality and entertainment sector, changing the way service-providers across
+        within the hospitality and entertainment sector, changing the way service-providers across
         the globe build their businesses.
       </p>
     </div>

@@ -51,7 +51,7 @@
 
     <div class="mt-10">
       <h1 class="text-white font-semibold text-md">HIGHLIGHTS</h1>
-      <div class="mt-5">
+      <div class="mt-5 -ml-3">
         <Highlights />
       </div>
     </div>

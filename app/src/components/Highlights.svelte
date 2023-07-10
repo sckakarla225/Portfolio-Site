@@ -9,8 +9,12 @@
   <Carousel
     bind:this={carousel}
   >
-    <div>1</div>
-    <div>2</div>
-    <div>3</div>
+    <img src="/images/image1.JPG" alt="" class="w-60 h-60 rounded-md" />
+    <img src="/images/image2.jpg" alt="" class="w-60 h-60 rounded-md" />
+    <img src="/images/image3.JPG" alt="" class="w-60 h-60 rounded-md" />
+    <img src="/images/image4.jpg" alt="" class="w-60 h-60 rounded-md" />
+    <img src="/images/image5.JPG" alt="" class="w-60 h-60 rounded-md" />
+    <img src="/images/image6.JPG" alt="" class="w-60 h-60 rounded-md" />
+    <img src="/images/image7.jpg" alt="" class="w-60 h-60 rounded-md" />
   </Carousel>
 {/if}
