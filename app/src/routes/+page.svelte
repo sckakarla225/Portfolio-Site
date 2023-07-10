@@ -61,8 +61,10 @@
       <img src="/images/profilepic2.jpeg" alt="Profile Pic" class="rounded-md shadow-lg w-96 h-96" />
     </div>
     <div class="flex flex-col">
-      <h1 class="font-bold text-white text-3xl">Headline...</h1>
-      <p class="text-white font-normal text-lg mt-5">
+      <h1 class="font-bold text-white text-4xl">
+        Entrepreneur and coder with a love for all things <p class="font-bold text-orange-300 text-4xl">entertainment.</p>
+      </h1>
+      <p class="text-white font-normal text-lg mt-8">
         Hi! My name is Samhith Kakarla. I'm a rising sophomore at Cornell University studying
         Hotel Administration and Mathematics. 
       </p>
