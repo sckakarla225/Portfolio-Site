@@ -32,7 +32,7 @@
           class="text-xl sm:text-3xl cursor-pointer mx-3"
         />
       </a>
-      <a href="https://linkedin.com/in/samhith-kakarla" target="_blank">
+      <a href="https://www.linkedin.com/in/samhith-kakarla-917194284/" target="_blank">
         <Icon 
           icon="mdi:linkedin" 
           color="white" 
