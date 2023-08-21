@@ -62,17 +62,16 @@
     </div>
     <div class="flex flex-col">
       <h1 class="font-bold text-white mt-10 sm:mt-0 text-4xl">
-        Entrepreneur and coder with a love for all things <p class="font-bold text-orange-300 text-4xl">entertainment.</p>
+        Entrepreneur and coder with a love for all things <p class="font-bold text-orange-300 text-4xl">arts & technology.</p>
       </h1>
       <p class="text-white font-normal text-lg mt-8">
-        Hi! My name is Samhith Kakarla. I'm a rising sophomore at Cornell University studying
-        Hotel Administration and Mathematics. 
+        Hi! My name is Samhith Kakarla. I'm a rising sophomore at Duke University studying
+        CS, Math, and Visual & Media Studies. 
       </p>
       <p class="text-white font-normal text-lg mt-4">
-        Following my tenure of running a successful event entertainment business, I plan on 
+        Following my tenure of running a successful DJ entertainment business, I plan on 
         exploring ways to use technology and finance to launch bold and exciting innovations
-        within the hospitality and entertainment sector, changing the way service-providers across
-        the globe build their businesses.
+        within the arts, entertainment, and media sector, empowering creators across the globe.
       </p>
     </div>
   </div>

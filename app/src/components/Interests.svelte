@@ -1,10 +1,10 @@
 <script>
   const interests = [
     'Startups', 'Venture Capital', 'Management and Tech Consulting', 
-    'Hospitality Real Estate and PE', 'Entertainment and Recreation', 'Live Events', 
-    'Media Production', 'Web and Mobile Development', 
-    'Machine Learning', 'Extended Reality and 3D Graphics', 'Embedded Systems'
-  ]
+    'Hospitality Real Estate', 'Entertainment and Recreation', 'Film Production', 
+    'Web and Mobile Development', 'Machine Learning', 'Extended Reality and 3D Graphics', 
+    'Embedded Systems'
+  ];
 </script>
 
 
