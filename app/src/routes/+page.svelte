@@ -58,7 +58,7 @@
   <!-- ABOUT ME  -->
   <div class="grid grid-cols-1 sm:grid-cols-2 pt-10 sm:pt-20 items-center">
     <div class="flex flex-col">
-      <img src="/images/profilepic2.jpeg" alt="Profile Pic" class="rounded-md shadow-lg w-80 h-80 sm:w-96 sm:h-96" />
+      <img src="/images/profilepic3.jpeg" alt="Profile Pic" class="rounded-full shadow-lg w-80 h-80 sm:w-96 sm:h-96" />
     </div>
     <div class="flex flex-col">
       <h1 class="font-bold text-white mt-10 sm:mt-0 text-4xl">
